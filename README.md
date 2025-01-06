@@ -1,7 +1,7 @@
 # epex-spot-at-tg-bot
 
 Telegram-Bot publishing the EPEX-Spot AT price everyday in human readable form.
-If you are to lazy to deploy your own container or see the bot in action: https://t.me/+BvLGnMgijSMzNmE8 
+If you are too lazy to deploy your own container or see the bot in action: https://t.me/+BvLGnMgijSMzNmE8 
 
 I am using the smartenergy API provided here: https://www.smartenergy.at/api-schnittstellen
 
